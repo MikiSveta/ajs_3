@@ -1,0 +1,19 @@
+{
+  "name": "@mikisveta/ajs_3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikiSveta/ajs_3.git"
+  },
+  "author": "MikiSveta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikiSveta/ajs_3/issues"
+  },
+  "homepage": "https://github.com/MikiSveta/ajs_3#readme"
+}
